@@ -20,7 +20,7 @@ timezone:
 
 title: Tratosca # the main title
 
-tagline: Cyber, IT and audio/video enthusiastic french student # it will display as the sub-title
+tagline: A cyber, IT and audio/video enthusiastic french student # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A cyber, IT and audio video enthusiastic french student open to work !
@@ -29,16 +29,16 @@ description: >- # used by seo meta and the atom feed
 url: "https://blog.tratosca.xyz"
 
 github:
-  username: ItsPops # change to your github username
+  username: Tratosca # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+# twitter:
+#   username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: François B.
-  email: contact@francois-brille.fr # change to your email address
+  name: François
+  email: tratosca@proton.me # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your twitter homepage
