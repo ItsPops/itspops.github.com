@@ -16,5 +16,5 @@
   url:  'https://stackoverflow.com/users/11191795/tratosca'
 
 - type: root-me
-  icon: 'local assets/img/logo/rootme.png'
+  icon: 'fa-solid fa-flag-pennant'
   url:  'https://www.root-me.org/ItsPops'
